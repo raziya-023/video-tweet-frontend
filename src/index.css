@@ -1,0 +1,11 @@
+html, body {
+  
+  background-color: #111827;
+  
+  /* Disable the 'pull-to-refresh' or 'bounce' effect in browsers */
+  overscroll-behavior: none;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
