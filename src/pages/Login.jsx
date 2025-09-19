@@ -48,7 +48,7 @@ function Login() {
                             id="email"
                             name="email"
                             type="text"
-                            autoComplete="email"
+                            autoComplete="username"
                             required
                             value={formData.email}
                             onChange={handleChange}
